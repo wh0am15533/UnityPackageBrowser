@@ -1,4 +1,4 @@
-# Unity Package Browser (LITE) and Extrator
+# Unity Package Browser (LITE) and Extractor
 
 This is the LITE version. The full version is forthcoming, it includes viewing assets directly within the app. You can view 3D models and interact with them, you can view any type of media asset, textures, etc, without extraction. I'm still production testing it so I didn't include it yet.
 
