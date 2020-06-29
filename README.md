@@ -11,5 +11,6 @@ Because there isn't an existing reliable tool already. The closest you come is s
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot.png)
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot2.png)
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot3.png)
+![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot6.png)
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot4.png)
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot5.png)
