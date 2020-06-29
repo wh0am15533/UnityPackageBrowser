@@ -24,3 +24,7 @@ Not yet. I'm currently implementing uTinyRipper into the app, so probably in the
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot6.png)
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot4.png)
 ![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot5.png)
+
+## Credits:
+VLC Media Player: https://github.com/videolan/vlc
+Helix 3D Toolkit: https://github.com/helix-toolkit/helix-toolkit
