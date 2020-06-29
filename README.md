@@ -8,7 +8,7 @@ Extract the entire package or just checked items. You can use file streams (In-M
 
 ## Why?
 
-Because there isn't an existing reliable tool already. The closest you come is some Python script that's a bit outdated.
+Because there isn't an existing reliable tool already. The closest you come is some Python script that's a bit outdated and SLOW.
 
 ## What about Resource files and AssetBundles?
 
