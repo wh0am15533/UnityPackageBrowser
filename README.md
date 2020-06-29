@@ -27,4 +27,5 @@ Not yet. I'm currently implementing uTinyRipper into the app, so probably in the
 
 ## Credits:
 VLC Media Player: https://github.com/videolan/vlc
+
 Helix 3D Toolkit: https://github.com/helix-toolkit/helix-toolkit
