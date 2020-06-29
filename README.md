@@ -8,5 +8,8 @@ Extract the entire package or just checked items. You can use file streams (In-M
 
 Because there isn't an existing reliable tool already. The closest you come is some Python script that's a bit outdated.
 
-![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screenshot.png)
-![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screenshot2.png)
+![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot.png)
+![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot2.png)
+![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot3.png)
+![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot4.png)
+![preview](https://github.com/wh0am15533/UnityPackageBrowser/blob/master/Screens/Screenshot5.png)
