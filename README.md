@@ -8,7 +8,7 @@ The full version is forthcoming, it includes viewing assets directly within the 
 
 NOTE: There is no dependency on having Unity Editor installed. This is totally self-contained.
 
-Extract the entire package or just checked items. You can use file streams (In-Memory extraction) or file based access which extracts to a Temp folder then deletes. Usings streams is alot faster, especially for large UnityPackage files.
+Extract the entire package or just checked items. You can use streams (In-Memory extraction) or file based access which extracts to a Temp folder then deletes. Usings streams is alot faster, especially for large UnityPackage files.
 
 ## Why?
 
